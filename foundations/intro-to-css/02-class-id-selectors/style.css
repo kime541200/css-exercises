@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(239, 150, 150);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div.second {
+    color: blue;
+    font-size: 36px;
+}
+
+p.third {
+    font-size: 24px;
+}
+
+div.fourth {
+    background-color: rgb(150, 239, 150);
+}
